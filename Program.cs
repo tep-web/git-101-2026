@@ -21,6 +21,8 @@
     "Sean!!!",
     "Jeffrey Chan",
     "Teppei",
+    "Kris Hsu",
+    "Bharath Sampath"
     // Add your name above this line! (Do not delete this)
 ];
 
